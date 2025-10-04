@@ -2,6 +2,10 @@ body {
   background-color: yellow;
 }
 
+.about {
+  background-color: green;
+}
+
 .footer {
   background-color: red;
 }
